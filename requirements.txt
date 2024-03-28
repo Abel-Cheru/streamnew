@@ -1,5 +1,6 @@
 numpy==1.26.3
 streamlit==1.31.1
+keras==3.1.1
 streamlit-option-menu==0.3.12
 scikit-learn==1.4.0
 protobuf==4.23.4
